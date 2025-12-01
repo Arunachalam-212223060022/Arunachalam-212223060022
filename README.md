@@ -65,8 +65,7 @@ mindset
 iterate -> simulate -> debug -> refine -> build
 
 ---
----
-<!-- ✨ FUN FACT – NEON GLOW CARD -->
+
 <div align="center">
 <p style="
   padding: 16px;
