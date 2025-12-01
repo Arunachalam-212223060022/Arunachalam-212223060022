@@ -36,11 +36,13 @@
 
 ## 🔥 About Me
 
-I’m **Arunachalam**, an Electronics and Communication Engineering student with a focused interest in VLSI, RTL design, FPGA development, and embedded systems. I am deeply motivated by understanding how hardware behaves beyond the surface—how signals propagate, how timing constraints shape design decisions, and how a system evolves from a conceptual block diagram to a functioning implementation.
+I’m Arunachalam, an Electronics and Communication Engineering student with a focused interest in VLSI ⚙️, RTL design 🧩, FPGA development ⚡, and embedded systems 🔧. I’m driven by a genuine curiosity to understand how hardware behaves beyond abstractions—how signals propagate, how timing constraints shape design, and how a system evolves from a conceptual block diagram into a functioning implementation.
 
-My learning approach is grounded in structured exploration: simulate, observe, debug, refine, and build. I enjoy dissecting complex digital systems, analyzing their functional and timing characteristics, and applying hardware description languages to model real-world behavior with clarity and precision.
+My learning process is centered around a structured engineering cycle:
+simulate → observe → debug → refine → build.
+I enjoy examining digital systems from both functional and timing perspectives, using HDL-based design to express hardware behavior with clarity and precision.
 
-I am currently strengthening my foundation in digital logic, RTL architecture, synthesis workflows, timing analysis, and system-level thinking. Whether it’s refining an RTL module, troubleshooting a waveform, or designing an embedded application, I aim to create solutions that are both technically sound and thoughtfully engineered.
+I’m currently strengthening my foundation in digital logic, RTL architecture, synthesis workflows, timing analysis, and system-level design. Whether I’m refining an RTL module, troubleshooting a waveform, or developing an embedded application, I aim to create solutions that are technically sound, efficient, and thoughtfully engineered.
 
 ---
 
