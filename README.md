@@ -137,7 +137,7 @@ FSM-based controller synthesized and tested in Quartus.
 
 <!-- 📊 Animated Contribution Snake -->
 <p align="center">
-  <img src="https://github.com/Arunachalam-212223060022/Arunachalam-212223060022/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Arunachalam-212223060022/Arunachalam-212223060022/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
