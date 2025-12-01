@@ -7,9 +7,27 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" />
+  <svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="neonBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00eaff" />
+        <stop offset="50%" stop-color="#00b7ff" />
+        <stop offset="100%" stop-color="#008cff" />
+      </linearGradient>
+
+      <filter id="glowBlue" x="-20%" y="-20%" width="150%" height="150%">
+        <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+
+    <path d="M0 60 C 300 20, 900 100, 1200 60 L 1200 120 L 0 120 Z"
+          fill="url(#neonBlue)" filter="url(#glowBlue)" opacity="0.85" />
+  </svg>
 </p>
 
 ---
@@ -42,7 +60,7 @@ and understanding what the **signal** is trying to say.
 ## 🧾 Terminal Card
 
 
-whoami
+who am I
 Arunachalam – ECE | VLSI | RTL | Embedded Systems
 
 focus --areas
