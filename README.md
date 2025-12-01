@@ -29,7 +29,7 @@ I'm **Arunachalam**, an ECE engineer who likes problems that are:
 - and somehow perfect for me  
 
 I’m not the “it worked on the first try” type —  
-I’m the **simulate → debug → break → fix → perfect** type.
+I’m the **simulate → debug → break → fix → refine** type.
 
 If it involves:
 - weird timing failures  
@@ -58,21 +58,86 @@ RTL Design | FPGA | Embedded Systems | Digital Logic | Simulation
 iterate -> simulate -> debug -> refine -> build
 
 > fun_fact
-My code works… eventually.
+Blue LEDs were considered "impossible" for decades — 
+they became real only in 1993, which unlocked white LEDs and modern displays.
 ```
 
 ---
 
-<!-- ===== 🔥 ANIMATED BATTERY STATUS (FUN BLOCK) ===== -->
+<!-- ================== VLSI THEMED SVG BANNER ================== -->
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+  <svg width="620" height="130" viewBox="0 0 620 130" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="vlsiGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#111827"/>
+        <stop offset="50%" stop-color="#1f2937"/>
+        <stop offset="100%" stop-color="#4b5563"/>
+      </linearGradient>
+      <linearGradient id="chipGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#22d3ee"/>
+        <stop offset="100%" stop-color="#a855f7"/>
+      </linearGradient>
+    </defs>
+
+    <rect x="5" y="10" rx="18" ry="18" width="610" height="110" fill="url(#vlsiGrad)" stroke="#4b5563" stroke-width="1.2"/>
+
+    <!-- Chip outline -->
+    <rect x="40" y="35" rx="10" ry="10" width="110" height="60" fill="#020617" stroke="url(#chipGrad)" stroke-width="2"/>
+    <!-- Pins -->
+    <g stroke="#6b7280" stroke-width="2">
+      <line x1="40" y1="45" x2="25" y2="45"/>
+      <line x1="40" y1="60" x2="25" y2="60"/>
+      <line x1="40" y1="75" x2="25" y2="75"/>
+
+      <line x1="150" y1="45" x2="165" y2="45"/>
+      <line x1="150" y1="60" x2="165" y2="60"/>
+      <line x1="150" y1="75" x2="165" y2="75"/>
+
+      <line x1="70" y1="95" x2="70" y2="110"/>
+      <line x1="95" y1="95" x2="95" y2="110"/>
+      <line x1="120" y1="95" x2="120" y2="110"/>
+    </g>
+    <!-- Chip inner pattern -->
+    <polyline points="55,80 70,55 90,70 110,45 135,70" fill="none" stroke="url(#chipGrad)" stroke-width="2.2"/>
+
+    <!-- Text -->
+    <text x="210" y="55" fill="#e5e7eb" font-size="20" font-family="Segoe UI, system-ui">VLSI • RTL • Digital Design</text>
+    <text x="210" y="80" fill="#9ca3af" font-size="13.5" font-family="Segoe UI, system-ui">
+      Exploring chips, timing, logic, and everything between abstraction and silicon.
+    </text>
+  </svg>
 </p>
 
 ---
 
-# ⚡ Tech Radar (Skill Map)
+# ⚡ Skill Radar (3D-style Progress View)
+
 <p align="center">
-  <img width="500" src="https://quickchart.io/chart?c={type:'radar',data:{labels:['RTL','VLSI','Embedded','Debugging','Circuits','Simulation'],datasets:[{label:'Skill',data:[90,85,80,88,82,90],borderColor:'rgb(93,112,255)',backgroundColor:'rgba(93,112,255,0.3)'}]},options:{scale:{ticks:{beginAtZero:true,max:100}}}}" />
+  <img width="520" src="https://quickchart.io/chart?c={
+    type:'radar',
+    data:{
+      labels:['Embedded Systems','Debugging','Circuit Design','Simulation','VLSI Basics','RTL Foundations'],
+      datasets:[{
+        label:'Skill Progress',
+        data:[85,80,75,70,60,55],
+        borderColor:'rgb(56,189,248)',
+        backgroundColor:'radial-gradient(circle, rgba(56,189,248,0.4) 0%, rgba(15,23,42,0.8) 70%)',
+        fill:true,
+        pointBackgroundColor:'rgb(56,189,248)'
+      }]
+    },
+    options:{
+      plugins:{legend:{labels:{color:'rgb(226,232,240)'}}},
+      scales:{
+        r:{
+          angleLines:{color:'rgba(148,163,184,0.45)'},
+          grid:{color:'rgba(51,65,85,0.7)'},
+          pointLabels:{color:'rgb(209,213,219)', font:{size:11}},
+          ticks:{display:false, max:100, beginAtZero:true}
+        }
+      }
+    }
+  }" />
 </p>
 
 ---
@@ -83,24 +148,24 @@ My code works… eventually.
   <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,linux,git,vscode,bash&theme=dark" />
 </p>
 
-### **💻 Programming & HDL**
-C • C++ • Python • Embedded C • Verilog • RTL
+### 💻 Programming & HDL  
+C • C++ • Python • Embedded C • Verilog • RTL  
 
-### **📡 Electronics & Embedded**
+### 📡 Electronics & Embedded  
 ESP-32 • Arduino • IoT • Sensors • Actuators • Digital/Analog Electronics  
 
-### **🔧 VLSI / EDA Tools**
+### 🔧 VLSI / EDA Tools  
 Quartus • Vivado • Cadence Virtuoso • LTspice • Multisim • Proteus • PCB Layout  
 
-### **🧪 Testing & Simulation**
+### 🧪 Testing & Simulation  
 Timing Analysis • Logic Analysis • Testbench Creation • RTL Synthesis • Hardware Debug  
 
-### **🛠 Platforms**
+### 🛠 Platforms  
 VS Code • Git • Google Colab • MATLAB • TinkerCAD • Arduino IDE  
 
 ---
 
-# ✨ Highlight Panels
+# 🔆 Highlight Panels
 
 <div align="center">
 
@@ -124,23 +189,56 @@ VS Code • Git • Google Colab • MATLAB • TinkerCAD • Arduino IDE
 
 ---
 
-# 🧪 Projects
+# 🧿 Custom "Emoji" Icons (FPGA • Oscilloscope • Waveform)
 
-### 🔹 **Indoor Navigation using A\***  
-Grid-based routing with A* + path simulation.
+<p align="center">
 
-### 🔹 **Smart Pill Dispenser (ESP32)**  
-Scheduled dispensing with embedded logic.
+  <!-- FPGA Icon -->
+  <svg width="60" height="60" viewBox="0 0 60 60" style="margin-right:18px;">
+    <rect x="8" y="8" width="44" height="44" rx="8" ry="8" fill="#020617" stroke="#38bdf8" stroke-width="2.2"/>
+    <g stroke="#64748b" stroke-width="2">
+      <line x1="8" y1="18" x2="3" y2="18"/><line x1="8" y1="30" x2="3" y2="30"/><line x1="8" y1="42" x2="3" y2="42"/>
+      <line x1="52" y1="18" x2="57" y2="18"/><line x1="52" y1="30" x2="57" y2="30"/><line x1="52" y1="42" x2="57" y2="42"/>
+    </g>
+    <rect x="19" y="19" width="22" height="22" rx="4" ry="4" fill="#0b1120" stroke="#22c55e" stroke-width="1.8"/>
+    <polyline points="22,34 26,26 31,32 35,24 38,30" fill="none" stroke="#22c55e" stroke-width="2"/>
+  </svg>
 
-### 🔹 **Traffic Light Controller (FPGA)**  
-FSM-based Verilog design synthesized on Quartus.
+  <!-- Oscilloscope Icon -->
+  <svg width="60" height="60" viewBox="0 0 60 60" style="margin-right:18px;">
+    <rect x="6" y="10" width="48" height="34" rx="6" ry="6" fill="#020617" stroke="#a855f7" stroke-width="2.2"/>
+    <rect x="10" y="14" width="33" height="26" rx="4" ry="4" fill="#020617" stroke="#4ade80" stroke-width="1.6"/>
+    <polyline points="12,30 16,24 21,27 25,20 29,33 33,26 37,30 41,22" fill="none" stroke="#4ade80" stroke-width="2"/>
+    <circle cx="49" cy="22" r="3" fill="#0f172a" stroke="#a855f7" stroke-width="1.5"/>
+    <circle cx="49" cy="30" r="3" fill="#0f172a" stroke="#a855f7" stroke-width="1.5"/>
+  </svg>
+
+  <!-- Waveform Icon -->
+  <svg width="60" height="60" viewBox="0 0 60 60">
+    <rect x="8" y="12" width="44" height="34" rx="6" ry="6" fill="#020617" stroke="#eab308" stroke-width="2.2"/>
+    <polyline points="10,29 15,23 20,35 25,19 30,33 35,21 40,32 45,24 50,30" fill="none" stroke="#fbbf24" stroke-width="2.4"/>
+  </svg>
+
+</p>
 
 ---
 
-# 🐍 GitHub Contribution Snake (Works After Workflow)  
+# 🧪 Projects
 
-> **Make sure your snake.yml + output branch exists.**  
-> This link is the correct final version.
+### 🔹 Indoor Navigation using A* Algorithm  
+Grid-based routing with A* + path simulation.
+
+### 🔹 Smart Pill Dispenser (ESP32)  
+Scheduled dispensing with sensor feedback and embedded logic.
+
+### 🔹 Traffic Light Controller (FPGA + Verilog)  
+FSM-based controller designed in Verilog and synthesized in Quartus.
+
+---
+
+# 🐍 GitHub Contribution Snake  
+
+> Make sure your workflow & `output` branch are set up — then this animates automatically.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arunachalam-212223060022/Arunachalam-212223060022/output/github-contribution-grid-snake-dark.svg" />
@@ -151,22 +249,23 @@ FSM-based Verilog design synthesized on Quartus.
 # 💼 Experience
 
 ### 🛠 NSIC Technical Services Centre — Intern  
-Circuit design, simulation, hardware testing.
+Circuit design, simulation, and hardware testing.
 
 ### 💻 Codec Technology — VLSI Intern  
-RTL, Verilog, FPGA, simulation, synthesis.
+Verilog, RTL design, FPGA flows, debugging & synthesis.
 
 ### 📘 Freelance Teaching — 2023–Present  
-STEM tutoring focused on conceptual depth.
+STEM tutoring with a concept-first approach.
 
 ---
 
 # 🎓 Education
 
 - B.E. Electronics & Communication Engineering — **CGPA: 8.4**  
-  Saveetha Engineering College  
+  Saveetha Engineering College, Chennai  
+
 - Higher Secondary — **81%**  
-  DAV MHSS  
+  DAV MHSS, Chennai  
 
 ---
 
@@ -179,5 +278,5 @@ STEM tutoring focused on conceptual depth.
 </p>
 
 <p align="center">
-  <sub>✨ Thanks for scrolling — you're awesome.</sub>
+  <sub>✨ Thanks for scrolling — you’re awesome.</sub>
 </p>
