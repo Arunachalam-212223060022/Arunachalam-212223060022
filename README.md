@@ -205,10 +205,11 @@ STEM tutoring with a concept-first approach.
 
   <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=facc15,fbbf24,f59e0b&height=80&section=footer&text=&fontSize=0" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=facc15&height=80&section=footer&text=&fontSize=0" 
     width="100%" 
   />
 </p>
+
 
 ---
 
