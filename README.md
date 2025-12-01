@@ -27,9 +27,9 @@
   </svg>
 </p>
 
-<!-- Typing Animation (Smooth) -->
+<!-- Typing Animation (More Lines, Still Smooth) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=1100&color=58A6FF&center=true&vCenter=true&width=600&lines=ECE+student+who+likes+debugging+more+than+sleep;VLSI+%7C+RTL+Design+%7C+Embedded+Systems;From+concept+to+simulation+to+hardware;Building%2C+breaking%2C+and+fixing+on+loop."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=1100&color=58A6FF&center=true&vCenter=true&width=600&lines=ECE+student+who+likes+debugging+more+than+sleep;VLSI+%7C+RTL+Design+%7C+Embedded+Systems;From+concept+to+simulation+to+hardware;Building%2C+breaking%2C+and+fixing+on+loop.;Digital+logic+%26+embedded+systems+enjoyer;Trying+to+understand+both+the+system+and+the+signal."/>
 </p>
 
 ---
