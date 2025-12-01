@@ -1,18 +1,20 @@
-<!-- NEXT-LEVEL README FOR: Arunachalam P -->
+<!-- ========================================================= -->
+<!--            ⚡ NEXT-LEVEL GITHUB PROFILE README ⚡          -->
+<!-- ========================================================= -->
 
-<!-- ✨ Gradient Hero Banner -->
+<!-- 🎨 HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=70&section=header&text=Hello%20there,%20I'm%20Arunachalam%20👋&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- ✨ Animated Typing Intro -->
+<!-- 🖥️ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&lines=ECE+Student+(but+treats+hardware+like+a+thriller+movie);VLSI+%7C+RTL+Design+%7C+Embedded+Systems;From+concept+to+simulation+to+hardware;Building%2C+breaking%2C+fixing+-+repeat;Digital+logic+is+my+comfort+zone;Trying+to+understand+both+the+system+and+the+signal."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1900&pause=1300&color=58A6FF&center=true&vCenter=true&width=800&lines=ECE+Student+who+treats+hardware+like+a+puzzle;VLSI+%7C+RTL+Design+%7C+FPGA+%7C+Embedded+Systems;Turning+concepts+into+circuits+and+circuits+into+reality;Breaking+things+to+understand+them+better;Debugging+is+my+superpower;Trying+to+understand+both+the+system+and+the+signal" />
 </p>
 
 ---
 
-<!-- 🧬 Animated Wave Divider -->
+<!-- 🌊 SECTION DIVIDER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" />
 </p>
@@ -21,54 +23,56 @@
 
 # 🔥 About Me
 
-I’m **Arunachalam**, an Electronics & Communication Engineering student who enjoys engineering problems that are:
-
+I'm **Arunachalam**, an ECE engineer who likes problems that are:
 - too logical for normal people  
 - too chaotic for textbooks  
-- and somehow *fun* for me  
+- and somehow perfect for me  
 
-I'm not the “memorize everything” engineer —  
-I’m the **debug-until-it-works** engineer.
+I’m not the “it worked on the first try” type —  
+I’m the **simulate → debug → break → fix → perfect** type.
 
-If something involves:
-- timing behavior  
-- logic states  
-- waveforms that look wrong but “feel right”  
-- circuits that scream for help  
+If it involves:
+- weird timing failures  
+- unstable waveforms  
+- dramatic circuits  
 - embedded systems that misbehave at 3 AM  
 
-…I’m interested.
+…I’m automatically interested.
 
-I love turning **concepts → simulations → hardware**,    
-and understanding **exactly what the signal is trying to say**.
+I love turning **ideas → simulations → hardware**  
+and listening to what the **signal** is trying to say.
 
-Currently diving deeper into **VLSI, RTL flows, FPGA design, and embedded logic architecture.**
-
-If your project involves chips, circuits, timing diagrams or microcontrollers —  
-you already have my attention.
+Currently exploring **VLSI, RTL architecture, FPGA flows, embedded systems, and circuit-level design**.
 
 ---
 
-<!-- ✨ Terminal Aesthetic Box -->
+<!-- ================== TERMINAL BLOCK ================== -->
 ```
-whoami
+> whoami
 Arunachalam – ECE | VLSI | RTL | Embedded Systems
 
-focus --areas
+> focus --areas
 RTL Design | FPGA | Embedded Systems | Digital Logic | Simulation
 
-mindset
+> mindset
 iterate -> simulate -> debug -> refine -> build
 
-fun_fact
+> fun_fact
 My code works… eventually.
-
+```
 
 ---
 
-<!-- 💠 TECH RADAR -->
+<!-- ===== 🔥 ANIMATED BATTERY STATUS (FUN BLOCK) ===== -->
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['RTL','VLSI','Embedded','Debugging','Circuits','Simulation'],datasets:[{label:'Skill Level',data:[90,85,80,88,82,90],borderColor:'rgb(93,112,255)',backgroundColor:'rgba(93,112,255,0.3)'}]},options:{scale:{ticks:{beginAtZero:true,max:100}}}}" width="500">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</p>
+
+---
+
+# ⚡ Tech Radar (Skill Map)
+<p align="center">
+  <img width="500" src="https://quickchart.io/chart?c={type:'radar',data:{labels:['RTL','VLSI','Embedded','Debugging','Circuits','Simulation'],datasets:[{label:'Skill',data:[90,85,80,88,82,90],borderColor:'rgb(93,112,255)',backgroundColor:'rgba(93,112,255,0.3)'}]},options:{scale:{ticks:{beginAtZero:true,max:100}}}}" />
 </p>
 
 ---
@@ -79,39 +83,39 @@ My code works… eventually.
   <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,linux,git,vscode,bash&theme=dark" />
 </p>
 
-### **Programming & HDL**
-C · C++ · Python · Embedded C · Verilog · RTL
+### **💻 Programming & HDL**
+C • C++ • Python • Embedded C • Verilog • RTL
 
-### **Electronics & Embedded**
-ESP-32 · Arduino · IoT · Analog/Digital Electronics · Sensors & Actuators
+### **📡 Electronics & Embedded**
+ESP-32 • Arduino • IoT • Sensors • Actuators • Digital/Analog Electronics  
 
-### **VLSI / Circuits / EDA Tools**
-Quartus · Vivado · Cadence Virtuoso · Multisim · LTspice · Proteus · PCB Layout
+### **🔧 VLSI / EDA Tools**
+Quartus • Vivado • Cadence Virtuoso • LTspice • Multisim • Proteus • PCB Layout  
 
-### **Debugging / Analysis / Simulation**
-Timing Analysis · Logic Analysis · Testbench Creation  
-RTL Synthesis · Hardware Debugging · Circuit Simulation
+### **🧪 Testing & Simulation**
+Timing Analysis • Logic Analysis • Testbench Creation • RTL Synthesis • Hardware Debug  
 
-### **Platforms / Tools**
-VS Code · Git · Google Colab · MATLAB · TinkerCAD · Arduino IDE
+### **🛠 Platforms**
+VS Code • Git • Google Colab • MATLAB • TinkerCAD • Arduino IDE  
 
 ---
 
-# 🔥 Highlight Skills
+# ✨ Highlight Panels
+
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="300" style="padding:20px;background:rgba(93,112,255,0.15);border-radius:12px;border:1px solid rgba(93,112,255,0.4);">
-<b>✨ RTL & FPGA</b><br>FSMs, datapaths, simulation, synthesis, timing.
+<b>🔷 RTL & FPGA</b><br>FSM, datapath, synthesis, timing closure.
 </td>
 
 <td align="center" width="300" style="padding:20px;background:rgba(236,72,153,0.15);border-radius:12px;border:1px solid rgba(236,72,153,0.4);">
-<b>⚡ Embedded Systems</b><br>ESP32, sensors, real-time logic.
+<b>🔶 Embedded Systems</b><br>ESP32, real-time logic, sensor integration.
 </td>
 
 <td align="center" width="300" style="padding:20px;background:rgba(34,197,94,0.15);border-radius:12px;border:1px solid rgba(34,197,94,0.4);">
-<b>🧪 Circuit Simulation</b><br>LTspice, Multisim, Proteus workflows.
+<b>🟩 Circuit Simulation</b><br>LTspice, Proteus, Multisim workflows.
 </td>
 </tr>
 </table>
@@ -122,21 +126,21 @@ VS Code · Git · Google Colab · MATLAB · TinkerCAD · Arduino IDE
 
 # 🧪 Projects
 
-### 🔹 Indoor Navigation using A* Algorithm  
-Pathfinding with heuristics, grid mapping, and simulation.
+### 🔹 **Indoor Navigation using A\***  
+Grid-based routing with A* + path simulation.
 
-### 🔹 Smart Pill Dispenser using ESP-32  
-Timed dispensing with sensors + embedded logic.
+### 🔹 **Smart Pill Dispenser (ESP32)**  
+Scheduled dispensing with embedded logic.
 
-### 🔹 Traffic Light Controller (FPGA + Verilog)  
-FSM-based controller designed in Verilog and synthesized in Quartus.
+### 🔹 **Traffic Light Controller (FPGA)**  
+FSM-based Verilog design synthesized on Quartus.
 
 ---
 
-# 🐍 GitHub Contribution Snake (Working Link)
+# 🐍 GitHub Contribution Snake (Works After Workflow)  
 
-### ✔ This uses the correct repo name  
-### ✔ Will load automatically after workflow runs
+> **Make sure your snake.yml + output branch exists.**  
+> This link is the correct final version.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arunachalam-212223060022/Arunachalam-212223060022/output/github-contribution-grid-snake-dark.svg" />
@@ -146,39 +150,34 @@ FSM-based controller designed in Verilog and synthesized in Quartus.
 
 # 💼 Experience
 
-### 🛠 Intern — NSIC Technical Services Centre (Jul 2024)  
-Circuit simulation, prototype testing, PCB workflows.
+### 🛠 NSIC Technical Services Centre — Intern  
+Circuit design, simulation, hardware testing.
 
-### 💻 VLSI Intern — Codec Technology (Nov 2024)  
-Verilog, RTL, FPGA, debugging & synthesis.
+### 💻 Codec Technology — VLSI Intern  
+RTL, Verilog, FPGA, simulation, synthesis.
 
-### 📘 Freelance Teaching (2023–Present)  
-STEM tutoring with concept-first approach.
-
----
-
-# 📚 Education
-- **B.E. Electronics & Communication Engineering** — CGPA: 8.4  
-  Saveetha Engineering College, Chennai  
-- **Higher Secondary (XII)** — 81%  
-  DAV MHSS
+### 📘 Freelance Teaching — 2023–Present  
+STEM tutoring focused on conceptual depth.
 
 ---
 
-# 🔗 Connect with Me
+# 🎓 Education
+
+- B.E. Electronics & Communication Engineering — **CGPA: 8.4**  
+  Saveetha Engineering College  
+- Higher Secondary — **81%**  
+  DAV MHSS  
+
+---
+
+# 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:arunachalam862005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/Arunachalam-212223060022">
-    <img src="https://img.shields.io/badge/GitHub-Arunachalam-111?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/arunachalam-p-12445b290">
-    <img src="https://img.shields.io/badge/LinkedIn-Arunachalam-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+  <a href="mailto:arunachalam862005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/Arunachalam-212223060022"><img src="https://img.shields.io/badge/GitHub-Profile-111?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/arunachalam-p-12445b290"><img src="https://img.shields.io/badge/LinkedIn-Arunachalam-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 <p align="center">
-  <sub>✨ Thanks for scrolling — you're officially awesome.</sub>
+  <sub>✨ Thanks for scrolling — you're awesome.</sub>
 </p>
