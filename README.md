@@ -80,17 +80,12 @@ and almost all modern displays possible.
 
 
 # 🧠 Skill Radar 
+<p align="center">
+  <img width="500" src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Embedded%20Systems%22%2C%22Debugging%22%2C%22Circuit%20Design%22%2C%22Simulation%22%2C%22VLSI%20Basics%22%2C%22RTL%20Foundations%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Skill%20Levels%22%2C%22data%22%3A%5B80%2C75%2C70%2C65%2C60%2C40%5D%2C%22borderColor%22%3A%22rgb(250%2C204%2C21)%22%2C%22backgroundColor%22%3A%22rgba(250%2C204%2C21%2C0.25)%22%2C%22pointBackgroundColor%22%3A%22rgb(250%2C204%2C21)%22%7D%5D%7D%2C%22options%22%3A%7B%22scales%22%3A%7B%22r%22%3A%7B%22min%22%3A30%2C%22max%22%3A100%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba(148%2C163%2C184%2C0.45)%22%7D%2C%22grid%22%3A%7B%22color%22%3A%22rgba(51%2C65%2C85%2C0.7)%22%7D%2C%22pointLabels%22%3A%7B%22color%22%3A%22rgb(209%2C213%2C219)%22%2C%22font%22%3A%7B%22size%22%3A12%7D%7D%2C%22ticks%22%3A%7B%22showLabelBackdrop%22%3Afalse%2C%22color%22%3A%22rgb(148%2C163%2C184)%22%7D%7D%7D%7D%7D" />
+</p>
 
-| Area              | Level                        |
-|-------------------|------------------------------|
-| Embedded Systems  | ██████████░░ (85%)           |
-| Debugging         | █████████░░░ (80%)           |
-| Circuit Design    | ████████░░░░ (75%)           |
-| Simulation        | ███████░░░░░ (70%)           |
-| VLSI Basics       | █████░░░░░░░ (60%)           |
-| RTL Foundations   | █████░░░░░░░ (55%)           |
 
----
+
 
 # 🚀 Tech Stack
 
