@@ -27,6 +27,13 @@
   </svg>
 </p>
 
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=facc15,fbbf24,f59e0b&height=80&section=header&text=&fontSize=0" 
+    width="100%" 
+  />
+</p>
+
 # 🔥 About Me
 
 I'm **Arunachalam**, an ECE engineer who likes problems that are:
@@ -194,7 +201,14 @@ STEM tutoring with a concept-first approach.
   Saveetha Engineering College, Chennai  
 
 - **Higher Secondary (XII)** — 81%  
-  DAV MHSS, Chennai  
+  DAV MHSS, Chennai
+
+  <p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=facc15,fbbf24,f59e0b&height=80&section=footer&text=&fontSize=0" 
+    width="100%" 
+  />
+</p>
 
 ---
 
