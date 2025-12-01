@@ -67,6 +67,13 @@ iterate -> simulate -> debug -> refine -> build
 ---
 ---
 <!-- ✨ FUN FACT – NEON GLOW CARD -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=00eaff,7c3aed,22c55e,ec4899&height=80&section=header&text=&fontSize=0" 
+    width="100%" 
+  />
+</p>
+
 <div align="center">
 
 <br>
@@ -96,13 +103,14 @@ and almost every modern lighting technology we use today.
 </p>
 
 </div>
----
+
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=00eaff&height=80&section=footer&text=&fontSize=0" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=00eaff,7c3aed,22c55e,ec4899&height=80&section=footer&text=&fontSize=0" 
     width="100%" 
   />
 </p>
+
 
 
 
