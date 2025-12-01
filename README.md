@@ -41,49 +41,6 @@ and understanding what the **signal** is trying to say.
 
 ## 🧾 Terminal Card
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=70&section=header&text=Hello%20there,%20I'm%20Arunachalam%20👋&fontSize=28&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1900&pause=1300&color=58A6FF&center=true&vCenter=true&width=800&lines=ECE+student+who+treats+hardware+like+a+puzzle;VLSI+%7C+RTL+Design+%7C+FPGA+%7C+Embedded+Systems;Turning+concepts+into+circuits+and+circuits+into+reality;Breaking+things+to+understand+them+better;Debugging+is+my+superpower;Trying+to+understand+both+the+system+and+the+signal" />
-</p>
-
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/assets/wave.svg" width="100%" />
-</p>
-
-
----
-
-# 🔥 About Me
-
-I'm **Arunachalam**, an ECE engineer who likes problems that are:
-
-- too logical for normal people  
-- too chaotic for textbooks  
-- and somehow perfect for me  
-
-I’m not the “it worked on the first try” type —  
-I’m the **simulate → debug → break → fix → refine** type.
-
-If it involves:
-
-- weird timing failures  
-- unstable waveforms  
-- dramatic circuits  
-- embedded systems that misbehave at 3 AM  
-
-…I’m automatically interested.
-
-I love turning **ideas → simulations → hardware**  
-and understanding what the **signal** is trying to say.
-
----
-
-## 🧾 Terminal Card
-
 
 whoami
 Arunachalam – ECE | VLSI | RTL | Embedded Systems
@@ -93,6 +50,8 @@ RTL Design | FPGA | Embedded Systems | Digital Logic | Simulation
 
 mindset
 iterate -> simulate -> debug -> refine -> build
+
+---
 
 <!-- ✨ FUN FACT – NEON GLOW CARD -->
 <div align="center">
@@ -125,9 +84,7 @@ and almost every modern lighting technology we use today.
 
 </div>
 
-
-
----
+--- 
 
 # 🧠 Skill Radar (3D-style bar levels)
 
